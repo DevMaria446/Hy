@@ -1,6 +1,9 @@
+node_modules
+
+
 git init
 git add .
-git commit -m "first i added css"
+git commit -m "check out"
 git branch -M master
 git remote add origin https://github.com/DevMaria446/Hy.git
 git push -u origin master
